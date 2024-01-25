@@ -1,0 +1,45 @@
+
+h2:not(.title1) {
+    text-decoration: underline;
+}
+
+figure {
+    display: inline-block;
+}
+
+.navbar-logo {
+    width: 55px;
+    height: auto; 
+    padding-left: 10px;
+}
+
+figure img {
+    border: 3px solid #000;
+    border-style: double;
+}
+
+figure figcaption {
+    font-style: italic;
+    color: gray;
+    text-align: center;
+}
+
+footer {
+    border-top: 1px solid #000;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    padding: 20px;
+}
+
+header.jumbotron {
+    padding-top: 70px;
+}
+
+.modal-body {
+    padding: 5px;
+}
+
+#popupCaption {
+    text-align: center;
+}
