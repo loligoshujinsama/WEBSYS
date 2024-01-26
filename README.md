@@ -3,5 +3,5 @@
 <p>Lab05 Websys</p>
 <p>Lab06 Websys</p>
 
-<p>Lab03 OOP</p>
+<p>Lab03 OOP - entity/gamemaster/desktoplauncher</p>
 <p>Lab03 OOP</p>
